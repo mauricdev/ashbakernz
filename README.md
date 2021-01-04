@@ -31,7 +31,7 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'To contribute to open source.';
+        return 'Si se puede imaginar se puede programar.';
     }
 }
 ```
